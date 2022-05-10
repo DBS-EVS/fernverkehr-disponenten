@@ -1,0 +1,84 @@
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+        <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+        <style>
+            .useful-width{
+                /* center the html elements */
+                max-width: 800px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        </style>
+        <script>
+            window.onload = function() {
+                const host = window.location.host;
+                let path = window.location.pathname;
+                if (path.endsWith('index.html')) {
+                    path = path.substr(path, path.length - 'index.html'.length);
+                }
+                const instanceId = Math.random().toString(36).substring(2, 15);
+                const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}map.json`;
+                const url2 = `https://play.workadventu.re/_/${instanceId}/${host}${path}theatre.json`;
+                const url3 = `https://play.workadventu.re/_/${instanceId}/${host}${path}hawaii.json`;
+                const url4 = `https://play.workadventu.re/_/${instanceId}/${host}${path}maze.json`;
+                document.getElementById('mapLink').href = url;
+                document.getElementById('mapLink2').href = url;
+                document.getElementById('mapLink').innerText = url;
+				
+                document.getElementById('mapLink3').href = url2;
+                document.getElementById('mapLink4').href = url2;
+                document.getElementById('mapLink3').innerText = url2;
+				
+                document.getElementById('mapLink5').href = url3;
+                document.getElementById('mapLink6').href = url3;
+                document.getElementById('mapLink5').innerText = url3;
+				
+                document.getElementById('mapLink7').href = url4;
+                document.getElementById('mapLink8').href = url4;
+                document.getElementById('mapLink7').innerText = url4;
+
+                const mapUrl = window.location.protocol+'//'+window.location.host+path+'map.json';
+                document.getElementById('mapUrl').innerText = mapUrl;
+
+                const gettingStartedLink = 'https://workadventu.re/getting-started?name=Map&mapUrl='+mapUrl;
+                document.getElementById('gettingStartedLink').href = gettingStartedLink;
+
+            };
+        </script>
+    </head>
+    <body>
+        <div class="useful-width">
+            <div style="text-align: center; margin-top: 3rem">
+                <img src="https://workadventu.re/img/logo.png" alt=""/>
+            </div>
+            <div class="nes-container with-title is-centered" style="margin-top: 1rem">
+                <p class="title">Test Beachclub map</p>
+				<p><img src="./map.png" width="40%" height="20%"></p>
+                <p>You can test this map at <a id="mapLink" href=""></a>.</p>
+                <p><a id="mapLink2" href="" class="nes-btn is-primary">Test this map</a></p>
+            </div>
+
+            <div class="nes-container with-title is-centered" style="margin-top: 1rem">
+                <p class="title">Test Theater map</p>
+				<p><img src="./theatre.png" width="40%" height="25%"></p>
+                <p>You can test this map at <a id="mapLink3" href=""></a>.</p>
+                <p><a id="mapLink4" href="" class="nes-btn is-primary">Test this map</a></p>
+            </div>
+
+            <div class="nes-container with-title is-centered" style="margin-top: 1rem">
+                <p class="title">Test Hawaii map</p>
+				<p><img src="./hawaii.png" width="40%" height="20%"></p>
+                <p>You can test this map at <a id="mapLink5" href=""></a>.</p>
+                <p><a id="mapLink6" href="" class="nes-btn is-primary">Test this map</a></p>
+            </div>
+
+            <div class="nes-container with-title is-centered" style="margin-top: 1rem">
+                <p class="title">Test Maze map</p>
+				<p><img src="./maze.png" width="40%" height="20%"></p>
+                <p>You can test this map at <a id="mapLink7" href=""></a>.</p>
+                <p><a id="mapLink8" href="" class="nes-btn is-primary">Test this map</a></p>
+            </div>
+        </div>
+    </body>
+</html>
