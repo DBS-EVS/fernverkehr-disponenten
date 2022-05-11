@@ -336,7 +336,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-di-theater#entrance3"
+                 "value":".\/db-engineering&consulting-theater#entrance3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -393,7 +393,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-di-theater#entrance2"
+                 "value":".\/db-engineering&consulting-theater#entrance2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -450,7 +450,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-di-theater#entrance1"
+                 "value":".\/db-engineering&consulting-theater#entrance1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2143,7 +2143,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB DI Beachclub"
+         "value":"DB Engineering & Consulting Beachclub"
         }, 
         {
          "name":"mapImage",
@@ -2153,7 +2153,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB-DI-Beachclub"
+         "value":"DB-Engineering&Consulting-Beachclub"
         }, 
         {
          "name":"script",
