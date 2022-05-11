@@ -279,7 +279,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consultin-hawaii"
+                 "value":".\/db-engineering&consulting-hawaii"
                 }],
          "type":"tilelayer",
          "visible":true,
