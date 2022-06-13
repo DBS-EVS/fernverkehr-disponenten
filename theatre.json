@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-beachclub"
+                 "value":".\/fernverkehr-disponenten-beachclub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -165,7 +165,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-beachclub"
+                 "value":".\/fernverkehr-disponenten-beachclub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -455,7 +455,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-event-theater"
+                 "value":"event-theater"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1511,7 +1511,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB Engineering & Consulting - Theater"
+         "value":"fernverkehr-disponenten-Theater"
         }, 
         {
          "name":"mapImage",
@@ -1521,7 +1521,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB-Engineering&Consulting-Theater"
+         "value":"fernverkehr-disponenten-Theater"
         }, 
         {
          "name":"script",

@@ -279,7 +279,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-hawaii"
+                 "value":".\/fernverkehr-disponenten-hawaii"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -336,7 +336,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-theater#entrance3"
+                 "value":".\/fernverkehr-disponenten-theater#entrance3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -393,7 +393,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-theater#entrance2"
+                 "value":".\/fernverkehr-disponenten-theater#entrance2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -450,7 +450,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-theater#entrance1"
+                 "value":".\/fernverkehr-disponenten-theater#entrance1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -569,7 +569,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beachclub-meeting1"
+                 "value":"meeting1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -636,7 +636,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beachclub-meeting2"
+                 "value":"meeting2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -703,7 +703,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beachclub-meeting3"
+                 "value":"meeting3"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -770,7 +770,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beachclub-meeting4"
+                 "value":"meeting4"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -2143,7 +2143,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB Engineering & Consulting Beachclub"
+         "value":"fernverkehr-disponenten"
         }, 
         {
          "name":"mapImage",
@@ -2153,7 +2153,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB-Engineering&Consulting-Beachclub"
+         "value":"fernverkehr-disponenten-beachclub"
         }, 
         {
          "name":"script",

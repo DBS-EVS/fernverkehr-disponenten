@@ -705,7 +705,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-beachclub"
+                 "value":".\/fernverkehr-disponenten-beachclub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -782,7 +782,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-maze"
+                 "value":".\/fernverkehr-disponenten-maze"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -859,7 +859,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-maze#top"
+                 "value":".\/fernverkehr-disponenten-maze#top"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -941,7 +941,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-workshop1"
+                 "value":"workshop1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1028,7 +1028,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-workshop2"
+                 "value":"workshop2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1115,7 +1115,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-workshop3"
+                 "value":"workshop3"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1202,7 +1202,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-workshop4"
+                 "value":"workshop4"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1289,7 +1289,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-workshop5"
+                 "value":"workshop5"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1376,7 +1376,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beach-1"
+                 "value":"beach-1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -1463,7 +1463,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"di-beach-2"
+                 "value":"beach-2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -5870,7 +5870,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"DB Engineering & Consulting - Hawaii"
+         "value":"fernverkehr-disponenten-Hawaii"
         }, 
         {
          "name":"mapImage",
@@ -5880,7 +5880,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DB-Engineering&Consulting-Hawaii"
+         "value":"fernverkehr-disponenten-Hawaii"
         }, 
         {
          "name":"script",
