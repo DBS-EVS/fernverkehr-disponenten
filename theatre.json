@@ -51,7 +51,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-beachclub"
+                 "value":".\/fernverkehr-disponenten-beachclub"
                 }],
          "type":"tilelayer",
          "visible":true,
