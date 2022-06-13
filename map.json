@@ -1575,6 +1575,30 @@
                  "width":161,
                  "x":1348,
                  "y":139
+                }, 
+                {
+                 "height":19,
+                 "id":11,
+                 "name":"Hawaii",
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"\"Press Start 2P\""
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Press Start 2P",
+                     "pixelsize":8,
+                     "text":"Hawaii",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":50.6666666666665,
+                 "x":1065.33333333334,
+                 "y":1199.83333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2132,7 +2156,7 @@
          "y":0
         }],
  "nextlayerid":51,
- "nextobjectid":11,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "properties":[
         {
