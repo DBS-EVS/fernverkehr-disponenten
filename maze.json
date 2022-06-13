@@ -189,7 +189,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-maze#stairs"
+                 "value":".\/fernverkehr-disponenten-maze#stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -228,7 +228,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-maze#top-stairs"
+                 "value":".\/fernverkehr-disponenten-maze#top-stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -267,7 +267,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-engineering&consulting-hawaii#start_vulcano"
+                 "value":".\/fernverkehr-disponenten-hawaii#start_vulcano"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -537,7 +537,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/db-di-hawaii#start_top-vulcano"
+                 "value":".\/fernverkehr-disponenten-hawaii#start_top-vulcano"
                 }],
          "type":"tilelayer",
          "visible":true,
